@@ -6,22 +6,24 @@ Source: _[Wikipedia](https://en.wikipedia.org/wiki/Optical_character_recognition
 
 Below are screenshots of the app built with Mathwork's MATLAB. It makes use of the [computer vision toolbox](https://www.mathworks.com/products/computer-vision.html) and the [Image Processing Toolbox](https://www.mathworks.com/products/image.html)
 
-### **ScreenShots**
+## **ScreenShots**
 
-- Character Finder
+- ### **Character Finder**
 
   ![Character Finder](ScreenShots/appShot.png)
 
-- Character Extraction
+- ### **Character Extraction**
+
   ![Character Extraction](ScreenShots/appShot2.png)
-- Input Tuning
+
+- ### **Input Tuning**
 
   ![Input Tuning](ScreenShots/shot3.png)
 
-- Word Finder
+- ### **Word Finder**
 
   ![Word Finder](ScreenShots/appShot3.png)
 
-- Sentence Extraction
+- ### **Sentence Extraction**
 
   ![Sentence Extraction](ScreenShots/shot2.png)
